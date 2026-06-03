@@ -2,7 +2,7 @@
 <!--   🌌 GITHUB PROFILE README  -->
 <!-- ========================== -->
 
-<h1 align="center">Hi there 👋, I'm Sans</h1>
+<h1 align="center">Hai👋, ini Sans!</h1>
 <h3 align="center">🚀 Mahasiswa | AI Enthusiast | Deep Learner | Tech Explorer</h3>
 
 <p align="center">
@@ -19,10 +19,10 @@
 ### 🧠 Tentang Saya
 > “Belajar bukan sekadar menghafal, tapi memahami sampai bisa menciptakan sesuatu baru.”
 
-- 🎓 Mahasiswa yang sedang mendalami dunia **AI**, **komputer**, dan **cybersecurity**.  
+- 🎓 Mahasiswa yang sedang mendalami dunia **AI** dan **komputer**.  
 - 💡 Suka memahami **cara kerja di balik teknologi** — bukan cuma memakainya.  
 - 🔍 Sedang berproses membangun diri agar **berpikir dalam & terstruktur**.  
-- ⚡ Motto hidup: *"Belajar, pahami, lalu ubah dunia dari dalam kode."*
+- ⚡ Motto hidup: *"Belajar pelan-pelan, pahami dalam-dalam, lalu bangun sesuatu yang berguna."*
 
 ---
 
@@ -40,23 +40,6 @@
 
 ---
 
-### 🌱 Saat Ini Saya Sedang Belajar
-- Membangun **AI lokal dengan NPU / Edge AI**  
-- Membuat backend dengan **Supabase & Express.js**  
-- Eksperimen dengan **sistem keamanan dan forensik digital**  
-- Menjelajahi konsep **Web3 & blockchain security**
-
----
-
-### 🧩 Proyek Unggulan
-| Proyek | Deskripsi | Teknologi |
-|--------|------------|------------|
-| 🧬 **AI Local Trainer** | AI yang berjalan offline untuk pembelajaran mandiri | Python, ONNX, NPU |
-| 🔐 **CyberTrace** | Sistem mini untuk melacak malware lokal | C++, Wireshark, Linux |
-| 🌐 **Smart API Hub** | API backend modular dengan sistem auth fleksibel | Node.js, Supabase |
-
----
-
 ### 📊 Statistik GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=santosssaja&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
@@ -69,11 +52,11 @@
 
 ---
 
-### 🎯 Goals 2025
-- [ ] Bangun AI kecil yang bisa berjalan di perangkat low-end  
-- [ ] Kuasai sistem backend dari nol  
-- [ ] Rilis banyak proyek open-source
-- [ ] Konsisten membangun kebiasaan belajar mendalam  
+### 🎯 Goals 2026
+- [ ] Membangun AI lokal ringan yang bisa berjalan di perangkat low-end
+- [ ] Membuat minimal 3 proyek open-source yang benar-benar selesai
+- [ ] Memahami backend, database, deployment, dan security secara lebih utuh
+- [ ] Menulis catatan belajar teknis secara konsisten
 
 ---
 
@@ -97,6 +80,6 @@
 ---
 
 <p align="center">
-  <i>“Code. Think. Repeat.”</i><br/>
+  <i>>"Saya masih dalam proses belajar: mencoba, gagal, memperbaiki, lalu memahami sedikit lebih dalam setiap hari."</i><br/>
   <img src="https://komarev.com/ghpvc/?username=santosssaja&label=Profile+Views&color=blue&style=flat" />
 </p>
